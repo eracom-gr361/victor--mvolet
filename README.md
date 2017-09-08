@@ -6,7 +6,7 @@ Le texte retenu pour ce projet est le récit *Le Dernier Jour d’un condamné*,
 
 Détail du brief: https://3.basecamp.com/3165988/buckets/3998276/vaults/650523679
 
-# Contenu de ce dossier
+## Contenu de ce dossier
 
 - index.html = un fichier HTML basique
 
